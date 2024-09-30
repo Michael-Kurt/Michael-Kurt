@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Michael-Kurt and I am the Digital Project Manager for Planet Argon in Portland, OR.
+- 👋 Hi, I’m @Michael-Kurt and I am the Senior Project Manager for Planet Argon in Portland, OR.
 - 👀 I’m interested in coffee, movies, and podcasts.
-- 🌱 I’m currently learning github projects :) 
 - 💞️ I’m looking to collaborate on project management.
 - 📫 How to reach me michael@planetargon.com
 
